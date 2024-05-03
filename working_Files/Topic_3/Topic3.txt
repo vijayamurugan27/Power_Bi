@@ -1,0 +1,25 @@
+first open the starter file.
+
+do the necessarry data resouce changes(colorformats, Reseller sales targets, and the database)
+
+
+click the model view icon and in the data pan , arange the schemas, so that you can view all the schemas
+
+right click it and click expand all, to view all the tables.
+
+now click the report icon and click PRODUCT | CATEGORRY and click SALES | SALES.
+
+Click Manage relationship --> new -->from the drop down select PRODUCT and then in the second  select click SALES --> SALES then click OK and CLOSE
+
+NOW drag and drop RESELLER KEY | RESELLER KEY ( a new link is created.
+
+in the same process
+
+Region |SalesTerritoryKEY to Sales|SalesTerritoryKEy
+SalesPerson ||Employee to Sales |EmployeeKey
+
+now you will be having 4 link if you see in the report window.
+
+
+Configurung Tables.
+
